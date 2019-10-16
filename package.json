@@ -1,6 +1,6 @@
 {
   "name": "unit-converter-pro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It is a npm package for converting units, including: Angle, Area, Bits, Density, ElectricCurrent, Energy, Force, Length, Mass, Power, Pressure, Speed, Temperature, Time, and Volume.",
   "main": "index.js",
   "scripts": {
