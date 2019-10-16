@@ -1,0 +1,38 @@
+{
+  "name": "unit-converter-pro",
+  "version": "1.0.0",
+  "description": "It is a npm package for converting units, including: Angle, Area, Bits, Density, ElectricCurrent, Energy, Force, Length, Mass, Power, Pressure, Speed, Temperature, Time, and Volume.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armancodv/unit-converter-pro.git"
+  },
+  "keywords": [
+    "unit",
+    "converter",
+    "Angle",
+    "Area",
+    "Bits",
+    "Density",
+    "ElectricCurrent",
+    "Energy",
+    "Force",
+    "Length",
+    "Mass",
+    "Power",
+    "Pressure",
+    "Speed",
+    "Temperature",
+    "Time",
+    "Volume"
+  ],
+  "author": "Arman Kolahan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/armancodv/unit-converter-pro/issues"
+  },
+  "homepage": "https://github.com/armancodv/unit-converter-pro#readme"
+}
