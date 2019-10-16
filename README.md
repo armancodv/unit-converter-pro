@@ -10,7 +10,7 @@ npm install unit-converter-pro
 ### Import
 This line of code should be added at the begin of the code.
 ```js
-const Convert = require('unit-convert');
+const Convert = require('unit-converter-pro');
 ```
 
 ---
